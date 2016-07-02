@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">NewsList</string>
     <string name="title">Title</string>
-    <string name="open_story">Open Story</string>
 </resources>
